@@ -1,7 +1,7 @@
 # Size
 
 
- - [Big](../Size/Big.md)
+ - [Big](Size/Big.md)
     
- - [Medium](../Size/Medium.md)
+ - [Medium](Size/Medium.md)
     
