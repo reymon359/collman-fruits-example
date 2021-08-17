@@ -1,7 +1,7 @@
 # Green
 
 
- - [Apple](../Apple/index.md)
+ - [Apple](Apple/index.md)
     
- - [Watermelon](../Watermelon/index.md)
+ - [Watermelon](Watermelon/index.md)
     

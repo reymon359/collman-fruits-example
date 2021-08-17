@@ -1,1 +1,1 @@
-Is my favourite fruit<hr/><br/>[Color:](../Color/index.md) [Orange](../Color/Orange.md)<br/>[Size:](../Size/index.md) [Medium](../Size/Medium.md)
+Is my favourite fruit<hr/><br/>[Color:](Color/index.md) [Orange](Color/Orange.md)<br/>[Size:](Size/index.md) [Medium](Size/Medium.md)
